@@ -1,10 +1,8 @@
 # jemdoc: menu{MENU}{index.html}, showsource
-= jemdoc -- light markup
-[http://stanford.edu/~jacobm/ Jacob Mattingley] ([jacobm@stanford.edu])
+= Ram Milan Verma -- IIT Bombay
+[https://rammilan007.github.io/ Ram Milan Verma] ([rmverma@iitb.ac.in])
 
-jemdoc is a light text-based markup language designed for creating 
-websites. It takes a text file written with [example.html jemdoc markup], an
-optional configuration file and an optional menu file, and makes static websites
+I am Reserach scholar at IIT Bombay. 
 that look something like this one, [http://cvxmod.net/ that one] or
 [http://www.stanford.edu/class/ee364a/ another one].
 
